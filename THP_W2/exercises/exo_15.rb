@@ -1,4 +1,4 @@
-puts " say a number, we'll get you a motherfuckin mario pyramid"
+puts " say a number, we'll get you a Mario pyramid"
 
 number = gets.chomp.to_i 
 
