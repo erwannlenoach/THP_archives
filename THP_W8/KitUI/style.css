@@ -1,0 +1,26 @@
+
+
+/* Body Base */
+
+body {
+    font-family: sans-serif;
+    background-color: #ececec
+}
+}
+
+.primary {
+    background-color: #ececec
+}
+
+.secondary {
+    background-color: #370617
+}
+
+.text-primary {
+    color: #d3d3d3;	
+  }
+
+
+  .font_roboto {
+      font-family: "Roboto", sans-serif;
+  }
